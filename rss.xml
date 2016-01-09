@@ -4,8 +4,15 @@
         <description><![CDATA[Meteor - The New Way To Build Apps!]]></description>
         <link>https://thegrid.ai/meteorjs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 11:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 11:34:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meteorjs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Meteor Js Platform Should Scare Any Technology Company!]]></title>
+            <description><![CDATA[<article><h1>Why Meteor Js Platform Should Scare Any Technology Company!</h1><p>How much money do you think has been spent building Tinder? How much time do you think it has taken Tinder to built their app? How many lines of code do you think were in version 1, let alone in the version that's live today?</p><img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAI7AAAAJGFjZTllZWUxLWIzYzktNGEyYS04NDNhLTVhOWZiNjI1MDc3Mg.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/why-meteor-js-platform-should-scare-any-technology-bressington</link>
+            <guid isPermaLink="false">e8ab2b43-8e2c-4675-8c0b-c5dc6a950b9c</guid>
+            <pubDate>Sat, 09 Jan 2016 11:33:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How To Deploy a Meteor.js Application on Ubuntu 14.04 with Nginx | DigitalOcean]]></title>
             <description><![CDATA[<article><h1>How To Deploy a Meteor.js Application on Ubuntu 14.04 with Nginx | DigitalOcean</h1><p>Deploy a Meteor.js application on Ubuntu 14.04 with Nginx and MongoDB. This tutorial shows you how to build and deploy a production-ready version of your JavaScript application using the Meteor framework.</p><img src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/MeteorJS-twitter.png?1426699729"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://forums.meteor.com/t/angular-react-and-blaze/16100</link>
             <guid isPermaLink="false">3b1f2306-cf49-4926-8c28-6628cd102c9d</guid>
             <pubDate>Sat, 09 Jan 2016 06:37:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meteor JS]]></title>
-            <description><![CDATA[<article><h1>Meteor JS</h1><p>Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert or beginner.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4fd650a8e93706b52dfa411f10fa8e5d2677a46.jpg"></article>]]></description>
-            <link>https://meteor-js.zeef.com/benjamin.clark.for.impresarios</link>
-            <guid isPermaLink="false">37413a35-d0c0-46a0-af17-c45277945092</guid>
-            <pubDate>Sat, 09 Jan 2016 06:36:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
