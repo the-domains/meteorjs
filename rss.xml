@@ -4,8 +4,15 @@
         <description><![CDATA[Meteor - The New Way To Build Apps!]]></description>
         <link>https://thegrid.ai/meteorjs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 07:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 07:29:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meteorjs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Discover Meteor - Learn how to build real-time JavaScript web apps with the Meteor.js framework]]></title>
+            <description><![CDATA[<article><h1>Discover Meteor - Learn how to build real-time JavaScript web apps with the Meteor.js framework</h1><p>Learn Meteor and build faster & simpler web apps, as we teach you how to build a real-time Meteor app from scratch. Read more reviews... Meteor is at the forefront of a new wave of frameworks that make building web apps easier, simpler, and faster.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e35ce22ef93df8c1e85f531ed5d76dd3fec6c5b9.png"></article>]]></description>
+            <link>https://www.discovermeteor.com/</link>
+            <guid isPermaLink="false">7b0a61da-072d-4c48-a774-1fb2779c103d</guid>
+            <pubDate>Sat, 09 Jan 2016 07:28:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meteor.js - A New Paradigm for Connected Client Apps]]></title>
             <description><![CDATA[<article><h1>Meteor.js - A New Paradigm for Connected Client Apps</h1><p>Sometimes, the incremental and never-ending changes of web tools and platforms build up over time and collide with user expectations. Multiplied by market forces they produce a radical shift in the technology approach to solving user problems. The last time this happened with the web was the late 90's transition from static websites to database driven ones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f50f7e941bbb822cbc6a91c420ee727a882ecb3e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://open.buffer.com/confidence-humility/?utm_content=buffer1f238&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">9f8bbe84-fb08-4da1-8089-2eeafc74e2c1</guid>
             <pubDate>Sat, 09 Jan 2016 06:36:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meteor Tutorial]]></title>
-            <description><![CDATA[<article><h1>Meteor Tutorial</h1><p>The Meteor Tutorial book will teach you how to develop and deploy production ready Meteor applications for both web and mobile. Meteor is a complete open source platform for building web and mobile apps in pure JavaScript. It allows you to "build apps that are a delight to use, faster than you ever thought possible".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e7d50c811a1018952b0f47bbcd0307b295b8aa9.png"></article>]]></description>
-            <link>http://www.meteor-tutorial.org/book</link>
-            <guid isPermaLink="false">c91ce48d-6d92-4eec-9be1-1718c87bbe8d</guid>
-            <pubDate>Sat, 09 Jan 2016 06:35:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
