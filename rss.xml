@@ -4,11 +4,11 @@
         <description><![CDATA[My Journey With Meteor]]></description>
         <link>https://thegrid.ai/meteorjs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 04:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 04:22:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meteorjs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Host your MeteorJS web app now on Scalingo]]></title>
-            <description><![CDATA[<article><h1>Host your MeteorJS web app now on Scalingo</h1><p>Scalingo is a Platform as a Service: just push your MeteorJS code and we'll take care of the rest. When we receive your code, we package it into a Docker container and place it on our cloud, making it instantly available and scalable.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ecd3f0acb98df60f19be0d5b489aa3386400720.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Host your MeteorJS web app now on Scalingo</h1><p>Scalingo is a Platform as a Service: just push your MeteorJS code and we'll take care of the rest. When we receive your code, we package it into a Docker container and place it on our cloud, making it instantly available and scalable.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1234cac908c2e248951e9a167c825119a41523c.png"></article>]]></description>
             <link>https://scalingo.com/meteorjs-hosting</link>
             <guid isPermaLink="false">75927fb1-6258-434c-a0b6-20ff596d400a</guid>
             <pubDate>Sat, 09 Jan 2016 04:18:24 GMT</pubDate>
@@ -26,13 +26,6 @@
             <link>https://themeteorchef.com/snippets/simple-components-with-dynamic-templates-in-blaze/</link>
             <guid isPermaLink="false">a64102a5-a37a-4a99-a328-7f39afd67835</guid>
             <pubDate>Sat, 09 Jan 2016 03:33:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://cdn-images-1.medium.com/max/800/1*ZR04JoMxPVO3lbHLgLnBtg.jpeg">]]></description>
-            <link>https://voice.kadira.io/sneak-peek-mantra-7161624acaa7#.ys0w7fqcp</link>
-            <guid isPermaLink="false">0e94bc15-7eb2-468c-8ca4-2120fdc5067b</guid>
-            <pubDate>Sat, 09 Jan 2016 03:02:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The JavaScript App Platform]]></title>
