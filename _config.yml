@@ -1,6 +1,6 @@
 name: MeteorJS
 favicon: null
-layout_spectrum: 0.8843
+layout_spectrum: 0.74479
 typography_spectrum: 0.68765
 title: Meteor - The New Way To Build Apps
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5916778931859881
   lightness: 0.818044004496187
   saturation: 0.19052637391723692
-  rhythmicContrast: 0.6227123416028917
+  rhythmicContrast: 0.25
 purpose: []
