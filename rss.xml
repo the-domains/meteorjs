@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[My Journey With Meteor]]></title>
-        <description><![CDATA[My Journey With Meteor]]></description>
+        <title><![CDATA[Meteor - The New Way To Build Apps!]]></title>
+        <description><![CDATA[Meteor - The New Way To Build Apps!]]></description>
         <link>https://thegrid.ai/meteorjs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 04:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 06:35:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meteorjs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Meteor Tutorial]]></title>
+            <description><![CDATA[<article><h1>Meteor Tutorial</h1><p>The Meteor Tutorial book will teach you how to develop and deploy production ready Meteor applications for both web and mobile. Meteor is a complete open source platform for building web and mobile apps in pure JavaScript. It allows you to "build apps that are a delight to use, faster than you ever thought possible".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e7d50c811a1018952b0f47bbcd0307b295b8aa9.png"></article>]]></description>
+            <link>http://www.meteor-tutorial.org/book</link>
+            <guid isPermaLink="false">c91ce48d-6d92-4eec-9be1-1718c87bbe8d</guid>
+            <pubDate>Sat, 09 Jan 2016 06:35:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How I develop MeteorJS apps]]></title>
-            <description><![CDATA[<article><h1>How I develop MeteorJS apps</h1><p>In this article I will show you my way of setting up apps written in MeteorJS. And how this helps me avoiding problems when the app grows.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/636056d237c8a37064e3b60ef648f1304e68aba8.png"></article>]]></description>
+            <description><![CDATA[<article><h1>How I develop MeteorJS apps</h1><p>In this article I will show you my way of setting up apps written in MeteorJS. And how this helps me avoiding problems when the app grows.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a98df111c145de84b2b3834d528bf6f089d30e2e.png"></article>]]></description>
             <link>http://howwedoapps.com/2015/07/16/how-i-develop-meteorjs-apps-part1</link>
             <guid isPermaLink="false">c495965e-343d-46f4-82b6-b4bf20544a33</guid>
             <pubDate>Sat, 09 Jan 2016 04:22:26 GMT</pubDate>
