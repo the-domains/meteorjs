@@ -4,8 +4,15 @@
         <description><![CDATA[Meteor - The New Way To Build Apps!]]></description>
         <link>https://thegrid.ai/meteorjs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 07:05:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 07:05:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meteorjs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Best Learning Resources for Meteor.js]]></title>
+            <description><![CDATA[<article><h1>Best Learning Resources for Meteor.js</h1><p>Meteor.js is an open-source platform built on node.js for rapidly creating reactive web and mobile apps. It is designed to allow programmers to create applications in a modern fashion, using up-to-date paradigms, most importantly reactive programming. Meteor became v1.0 on October 28th, 2014. Together with Manuel I am the author of the Manning book Meteor in Action.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e877ae7356499da05f861b591e66b2e19c41dc7c.jpg"></article>]]></description>
+            <link>https://www.yauh.de/best-learning-resources-for-meteorjs/</link>
+            <guid isPermaLink="false">8e44e6e9-b92f-4191-bc0f-204f1e664bae</guid>
+            <pubDate>Sat, 09 Jan 2016 07:04:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meteorjs]]></title>
             <description><![CDATA[<article><h1>Meteorjs</h1><p>Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c3036baa60adb5cb841031844f910f7c3f0abfe.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://scalingo.com/meteorjs-hosting</link>
             <guid isPermaLink="false">75927fb1-6258-434c-a0b6-20ff596d400a</guid>
             <pubDate>Sat, 09 Jan 2016 04:18:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meteor.js vs. the MEAN stack]]></title>
-            <description><![CDATA[<article><h1>Meteor.js vs. the MEAN stack</h1><p>I started writing this article as an answer on Quora, seeing how there wasn't really any good comparison between Meteor.js and the MEAN stack ( MongoDB, Express, Angular, N ode.js). First off, I should mention there's no such thing as "the" MEAN stack or framework.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3527e7fa1cd01fba59ab2d6bf2fe72a44f8c0f18.jpg"></article>]]></description>
-            <link>https://wiki.dandascalescu.com/essays/meteor_js_vs_the_mean_stack</link>
-            <guid isPermaLink="false">9ab7e52e-be71-4acd-bf91-1e50468c2429</guid>
-            <pubDate>Sat, 09 Jan 2016 03:54:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
