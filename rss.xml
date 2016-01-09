@@ -4,8 +4,15 @@
         <description><![CDATA[My Journey With Meteor]]></description>
         <link>https://thegrid.ai/meteorjs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 03:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 03:33:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meteorjs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Simple Components with Dynamic Templates in Blaze]]></title>
+            <description><![CDATA[<article><h1>Simple Components with Dynamic Templates in Blaze</h1><p>In this snippet, we're going to look at a simple pattern for creating reusable components in Blaze. We'll rely on dynamic templates in Blaze, learning how to feed data into our component template from its parent. Join The Meteor Chef on Slack If you get confused or stuck while reading-or just want to talk about Meteor-join us on Slack!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/103ac9cd198f0b6be190a84e5608b3efc3c3ac71.png"></article>]]></description>
+            <link>https://themeteorchef.com/snippets/simple-components-with-dynamic-templates-in-blaze/</link>
+            <guid isPermaLink="false">a64102a5-a37a-4a99-a328-7f39afd67835</guid>
+            <pubDate>Sat, 09 Jan 2016 03:33:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://cdn-images-1.medium.com/max/800/1*ZR04JoMxPVO3lbHLgLnBtg.jpeg">]]></description>
