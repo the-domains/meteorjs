@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[MeteorJS]]></title>
-        <description><![CDATA[MeteorJS]]></description>
+        <title><![CDATA[My Journey With Meteor]]></title>
+        <description><![CDATA[My Journey With Meteor]]></description>
         <link>https://thegrid.ai/meteorjs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 03:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 03:09:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meteorjs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[The JavaScript App Platform]]></title>
-            <description><![CDATA[<article><h1>The JavaScript App Platform</h1><p>Build apps that are a delight to use, faster than you ever thought possible</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e00e4a35a30b587784620c76d8f44a183c8075b2.png"></article>]]></description>
+            <description><![CDATA[<article><h1>The JavaScript App Platform</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e00e4a35a30b587784620c76d8f44a183c8075b2.png"></article>]]></description>
             <link>https://thegrid.ai/meteorjs/the-javascript-app-platform/index.html</link>
             <guid isPermaLink="false">a1a099d6-ebce-43e4-b460-081dccfd04a1</guid>
-            <pubDate>Sat, 09 Jan 2016 02:31:21 GMT</pubDate>
+            <pubDate>Sat, 09 Jan 2016 03:09:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
