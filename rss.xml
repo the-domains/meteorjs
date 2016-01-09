@@ -4,8 +4,15 @@
         <description><![CDATA[Meteor - The New Way To Build Apps!]]></description>
         <link>https://thegrid.ai/meteorjs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 06:38:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 07:04:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meteorjs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Meteor­.js­ by babon]]></title>
+            <description><![CDATA[<article><h1>Meteor­.js­ by babon</h1><p>Buy 'Meteor­.js­' by babon as a Sticker.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/096caf40665882c7d973dd326135214b2381e058.jpg"></article>]]></description>
+            <link>http://www.redbubble.com/people/babon/works/12647449-meteor-js?p=sticker</link>
+            <guid isPermaLink="false">c22d33c3-5f96-4644-b2b2-202ffd2f8a3d</guid>
+            <pubDate>Sat, 09 Jan 2016 07:03:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blaze | Meteor Guide]]></title>
             <description><![CDATA[<article><h1>Blaze | Meteor Guide</h1><p>How to use Blaze, Meteor's frontend rendering system, to build usable and maintainable user interfaces.</p></article>]]></description>
@@ -15,21 +22,21 @@
         </item>
         <item>
             <title><![CDATA[Angular, React, and Blaze]]></title>
-            <description><![CDATA[<article><h1>Angular, React, and Blaze</h1><p>Late last year I posted a message about how MDG was thinking about the view layer and where we thought we should go next. Since then, we've had many more conversations, both here on the forum, with the Customer Advisory Board we formed last year, and 1:1 with teams ranging from large production users to Meteor non-users, and in environments ranging from small startups to large enterprises.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c770d0aaccacf5bc8a57f1368e508eed3b9eb845.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Angular, React, and Blaze</h1><p>Late last year I posted a message about how MDG was thinking about the view layer and where we thought we should go next. Since then, we've had many more conversations, both here on the forum, with the Customer Advisory Board we formed last year, and 1:1 with teams ranging from large production users to Meteor non-users, and in environments ranging from small startups to large enterprises.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eac691945659ca1bbca093944f59f03b6712d044.png"></article>]]></description>
             <link>https://forums.meteor.com/t/angular-react-and-blaze/16100</link>
             <guid isPermaLink="false">3b1f2306-cf49-4926-8c28-6628cd102c9d</guid>
             <pubDate>Sat, 09 Jan 2016 06:37:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meteor JS]]></title>
-            <description><![CDATA[<article><h1>Meteor JS</h1><p>Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert or beginner.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6103fdee3c05cf94268d539e182b0b71934450b1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Meteor JS</h1><p>Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert or beginner.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4fd650a8e93706b52dfa411f10fa8e5d2677a46.jpg"></article>]]></description>
             <link>https://meteor-js.zeef.com/benjamin.clark.for.impresarios</link>
             <guid isPermaLink="false">37413a35-d0c0-46a0-af17-c45277945092</guid>
             <pubDate>Sat, 09 Jan 2016 06:36:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Humility-Confidence SeeSaw: The Untold Secret of Great Leaders]]></title>
-            <description><![CDATA[<article><h1>The Humility-Confidence SeeSaw: The Untold Secret of Great Leaders</h1><p>Try to think back to a time when you felt incredibly confident. You instinctively knew you could handle whatever came at you. You were on top of things, making all the right moves. You were in the zone. It's an amazing feeling, and one that we'd probably all like to have more often.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b846fba9e3f4e28147550ef70163f17bd4fd738b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Humility-Confidence SeeSaw: The Untold Secret of Great Leaders</h1><p>Try to think back to a time when you felt incredibly confident. You instinctively knew you could handle whatever came at you. You were on top of things, making all the right moves. You were in the zone. It's an amazing feeling, and one that we'd probably all like to have more often.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0cc02d142cd579d9d592b80f7c0d7ed3d31e168.jpg"></article>]]></description>
             <link>https://open.buffer.com/confidence-humility/?utm_content=buffer1f238&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">9f8bbe84-fb08-4da1-8089-2eeafc74e2c1</guid>
             <pubDate>Sat, 09 Jan 2016 06:36:20 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://themeteorchef.com/snippets/simple-components-with-dynamic-templates-in-blaze/</link>
             <guid isPermaLink="false">a64102a5-a37a-4a99-a328-7f39afd67835</guid>
             <pubDate>Sat, 09 Jan 2016 03:33:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The JavaScript App Platform]]></title>
-            <description><![CDATA[<article><h1>The JavaScript App Platform</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e00e4a35a30b587784620c76d8f44a183c8075b2.png"></article>]]></description>
-            <link>https://thegrid.ai/meteorjs/the-javascript-app-platform/index.html</link>
-            <guid isPermaLink="false">a1a099d6-ebce-43e4-b460-081dccfd04a1</guid>
-            <pubDate>Sat, 09 Jan 2016 03:09:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
