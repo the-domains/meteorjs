@@ -4,18 +4,25 @@
         <description><![CDATA[Meteor - The New Way To Build Apps!]]></description>
         <link>https://thegrid.ai/meteorjs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 07:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 11:34:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meteorjs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[How To Deploy a Meteor.js Application on Ubuntu 14.04 with Nginx | DigitalOcean]]></title>
+            <description><![CDATA[<article><h1>How To Deploy a Meteor.js Application on Ubuntu 14.04 with Nginx | DigitalOcean</h1><p>Deploy a Meteor.js application on Ubuntu 14.04 with Nginx and MongoDB. This tutorial shows you how to build and deploy a production-ready version of your JavaScript application using the Meteor framework.</p><img src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/MeteorJS-twitter.png?1426699729"></article>]]></description>
+            <link>https://www.digitalocean.com/community/tutorials/how-to-deploy-a-meteor-js-application-on-ubuntu-14-04-with-nginx</link>
+            <guid isPermaLink="false">42536207-8abd-420f-9687-84f2d44fc771</guid>
+            <pubDate>Sat, 09 Jan 2016 11:33:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Discover Meteor - Learn how to build real-time JavaScript web apps with the Meteor.js framework]]></title>
-            <description><![CDATA[<article><h1>Discover Meteor - Learn how to build real-time JavaScript web apps with the Meteor.js framework</h1><p>Learn Meteor and build faster & simpler web apps, as we teach you how to build a real-time Meteor app from scratch. Read more reviews... Meteor is at the forefront of a new wave of frameworks that make building web apps easier, simpler, and faster.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e35ce22ef93df8c1e85f531ed5d76dd3fec6c5b9.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Discover Meteor - Learn how to build real-time JavaScript web apps with the Meteor.js framework</h1><p>Learn Meteor and build faster & simpler web apps, as we teach you how to build a real-time Meteor app from scratch. Read more reviews... Meteor is at the forefront of a new wave of frameworks that make building web apps easier, simpler, and faster.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ac0fc5fc7485391b2b9a4fdfd3ea7d648007364.png"></article>]]></description>
             <link>https://www.discovermeteor.com/</link>
             <guid isPermaLink="false">7b0a61da-072d-4c48-a774-1fb2779c103d</guid>
             <pubDate>Sat, 09 Jan 2016 07:28:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meteor.js - A New Paradigm for Connected Client Apps]]></title>
-            <description><![CDATA[<article><h1>Meteor.js - A New Paradigm for Connected Client Apps</h1><p>Sometimes, the incremental and never-ending changes of web tools and platforms build up over time and collide with user expectations. Multiplied by market forces they produce a radical shift in the technology approach to solving user problems. The last time this happened with the web was the late 90's transition from static websites to database driven ones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f50f7e941bbb822cbc6a91c420ee727a882ecb3e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Meteor.js - A New Paradigm for Connected Client Apps</h1><p>Sometimes, the incremental and never-ending changes of web tools and platforms build up over time and collide with user expectations. Multiplied by market forces they produce a radical shift in the technology approach to solving user problems. The last time this happened with the web was the late 90's transition from static websites to database driven ones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac1c067b43e185496728d1945cb833ca95fa1572.jpg"></article>]]></description>
             <link>http://www.ziptask.com/Meteorjs-A-New-Paradigm-for-Connected-Client-Apps</link>
             <guid isPermaLink="false">7e97437f-3c9c-4014-999a-91ededd2eb0e</guid>
             <pubDate>Sat, 09 Jan 2016 07:28:09 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://meteor-js.zeef.com/benjamin.clark.for.impresarios</link>
             <guid isPermaLink="false">37413a35-d0c0-46a0-af17-c45277945092</guid>
             <pubDate>Sat, 09 Jan 2016 06:36:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Humility-Confidence SeeSaw: The Untold Secret of Great Leaders]]></title>
-            <description><![CDATA[<article><h1>The Humility-Confidence SeeSaw: The Untold Secret of Great Leaders</h1><p>Try to think back to a time when you felt incredibly confident. You instinctively knew you could handle whatever came at you. You were on top of things, making all the right moves. You were in the zone. It's an amazing feeling, and one that we'd probably all like to have more often.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0cc02d142cd579d9d592b80f7c0d7ed3d31e168.jpg"></article>]]></description>
-            <link>https://open.buffer.com/confidence-humility/?utm_content=buffer1f238&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">9f8bbe84-fb08-4da1-8089-2eeafc74e2c1</guid>
-            <pubDate>Sat, 09 Jan 2016 06:36:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
