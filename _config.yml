@@ -1,0 +1,28 @@
+name: MeteorJS
+favicon: null
+layout_spectrum: 0.7662893191445619
+typography_spectrum: 0.517683650366962
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5916778931859881
+  lightness: 0.818044004496187
+  saturation: 0.19052637391723692
+  rhythmicContrast: 0.6227123416028917
+purpose: []
