@@ -4,11 +4,18 @@
         <description><![CDATA[Meteor - The New Way To Build Apps!]]></description>
         <link>https://thegrid.ai/meteorjs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 07:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 07:05:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meteorjs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Meteorjs]]></title>
+            <description><![CDATA[<article><h1>Meteorjs</h1><p>Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c3036baa60adb5cb841031844f910f7c3f0abfe.png"></article>]]></description>
+            <link>https://bitnami.com/stack/meteorjs</link>
+            <guid isPermaLink="false">25e3d1db-8c87-42b7-916d-ec8fe7f4997b</guid>
+            <pubDate>Sat, 09 Jan 2016 07:04:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Meteor­.js­ by babon]]></title>
-            <description><![CDATA[<article><h1>Meteor­.js­ by babon</h1><p>Buy 'Meteor­.js­' by babon as a Sticker.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/096caf40665882c7d973dd326135214b2381e058.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Meteor­.js­ by babon</h1><p>Buy 'Meteor­.js­' by babon as a Sticker.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00b28eaba8e4eb134ee318cb6c9178268b47a32f.jpg"></article>]]></description>
             <link>http://www.redbubble.com/people/babon/works/12647449-meteor-js?p=sticker</link>
             <guid isPermaLink="false">c22d33c3-5f96-4644-b2b2-202ffd2f8a3d</guid>
             <pubDate>Sat, 09 Jan 2016 07:03:46 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://wiki.dandascalescu.com/essays/meteor_js_vs_the_mean_stack</link>
             <guid isPermaLink="false">9ab7e52e-be71-4acd-bf91-1e50468c2429</guid>
             <pubDate>Sat, 09 Jan 2016 03:54:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simple Components with Dynamic Templates in Blaze]]></title>
-            <description><![CDATA[<article><h1>Simple Components with Dynamic Templates in Blaze</h1><p>In this snippet, we're going to look at a simple pattern for creating reusable components in Blaze. We'll rely on dynamic templates in Blaze, learning how to feed data into our component template from its parent. Join The Meteor Chef on Slack If you get confused or stuck while reading-or just want to talk about Meteor-join us on Slack!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27cb09148887ea39a588a3f88fe7d3ecc660e631.png"></article>]]></description>
-            <link>https://themeteorchef.com/snippets/simple-components-with-dynamic-templates-in-blaze/</link>
-            <guid isPermaLink="false">a64102a5-a37a-4a99-a328-7f39afd67835</guid>
-            <pubDate>Sat, 09 Jan 2016 03:33:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
