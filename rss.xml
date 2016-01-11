@@ -4,11 +4,18 @@
         <description><![CDATA[Meteor - The New Way To Build Apps!]]></description>
         <link>https://thegrid.ai/meteorjs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 11:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2016 08:47:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meteorjs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Why Meteor Js Platform Should Scare Any Technology Company!]]></title>
-            <description><![CDATA[<article><h1>Why Meteor Js Platform Should Scare Any Technology Company!</h1><p>How much money do you think has been spent building Tinder? How much time do you think it has taken Tinder to built their app? How many lines of code do you think were in version 1, let alone in the version that's live today?</p><img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAI7AAAAJGFjZTllZWUxLWIzYzktNGEyYS04NDNhLTVhOWZiNjI1MDc3Mg.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Why Meteor Js Platform Should Scare Any Technology Company!</h1><p>How much money do you think has been spent building Tinder? How much time do you think it has taken Tinder to built their app? How many lines of code do you think were in version 1, let alone in the version that's live today?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d28007ab44bb3826ddf0a18f2faa03c873f7ec2.jpg"></article>]]></description>
+            <link>http://meteornerds.com/why-meteor-js-platform-should-scare-any-technology-company/</link>
+            <guid isPermaLink="false">b5cfba8d-4197-41cc-81d5-3bf513d0bb12</guid>
+            <pubDate>Mon, 11 Jan 2016 08:47:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Meteor Js Platform Should Scare Any Technology Company!]]></title>
+            <description><![CDATA[<article><h1>Why Meteor Js Platform Should Scare Any Technology Company!</h1><p>How much money do you think has been spent building Tinder? How much time do you think it has taken Tinder to built their app? How many lines of code do you think were in version 1, let alone in the version that's live today?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea971366f0c3e7dec5c7c70c981db29929d8ba76.jpg"></article>]]></description>
             <link>https://www.linkedin.com/pulse/why-meteor-js-platform-should-scare-any-technology-bressington</link>
             <guid isPermaLink="false">e8ab2b43-8e2c-4675-8c0b-c5dc6a950b9c</guid>
             <pubDate>Sat, 09 Jan 2016 11:33:58 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://guide.meteor.com/blaze.html</link>
             <guid isPermaLink="false">5c5aebb1-79ce-4b79-8c53-d8b3ddf6b579</guid>
             <pubDate>Sat, 09 Jan 2016 06:37:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Angular, React, and Blaze]]></title>
-            <description><![CDATA[<article><h1>Angular, React, and Blaze</h1><p>Late last year I posted a message about how MDG was thinking about the view layer and where we thought we should go next. Since then, we've had many more conversations, both here on the forum, with the Customer Advisory Board we formed last year, and 1:1 with teams ranging from large production users to Meteor non-users, and in environments ranging from small startups to large enterprises.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eac691945659ca1bbca093944f59f03b6712d044.png"></article>]]></description>
-            <link>https://forums.meteor.com/t/angular-react-and-blaze/16100</link>
-            <guid isPermaLink="false">3b1f2306-cf49-4926-8c28-6628cd102c9d</guid>
-            <pubDate>Sat, 09 Jan 2016 06:37:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
