@@ -4,8 +4,15 @@
         <description><![CDATA[Meteor - The New Way To Build Apps!]]></description>
         <link>https://thegrid.ai/meteorjs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 08:49:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2016 12:04:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meteorjs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Improve Performance of Meteor.js]]></title>
+            <description><![CDATA[<article><h1>How to Improve Performance of Meteor.js</h1><p>Meteor is a platform independent, open-source, JavaScript web application providing a complete full-stack framework for creating code that runs on web as well as mobile device. Meteor simplifies the process for responsive application development. Users can expect their apps faster than they ever thought and easy to use.</p><img src="http://codecondo.com/wp-content/uploads/2015/10/How-to-improve-performance-of-Meteor-Copy.png"></article>]]></description>
+            <link>http://codecondo.com/how-to-improve-performance-of-meteor-js/</link>
+            <guid isPermaLink="false">8e28a2d8-11ad-4522-8b95-4b0222690e5b</guid>
+            <pubDate>Mon, 11 Jan 2016 12:03:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Technology Radar | Emerging Technology Trends for 2015 | ThoughtWorks]]></title>
             <description><![CDATA[<article><h1>Technology Radar | Emerging Technology Trends for 2015 | ThoughtWorks</h1><p>The Technology Radar is our thoughts on emerging technology trends in the industry. Read the latest here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00a2e9ca3a7239c9e588d9908d3c170e4e254dde.png"></article>]]></description>
@@ -22,14 +29,14 @@
         </item>
         <item>
             <title><![CDATA[Running your meteor.js application on your own server]]></title>
-            <description><![CDATA[<article><h1>Running your meteor.js application on your own server</h1><p>During the course of the weekend two weeks ago, I created the **Quantified Geekonaut to gather some data about my internet activities (such as Twitter, Last.FM [Spotify really], Foursquare, Github, my blog and a few others) and experiment with graphing and such.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e08aa34da8e23ac9192d66c1bade470bb4649f6c.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Running your meteor.js application on your own server</h1><p>During the course of the weekend two weeks ago, I created the **Quantified Geekonaut to gather some data about my internet activities (such as Twitter, Last.FM [Spotify really], Foursquare, Github, my blog and a few others) and experiment with graphing and such.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffd6d5029ccc38cf2df467ec5c25282470f5f5f1.png"></article>]]></description>
             <link>http://ox86.tumblr.com/post/45184656062/running-your-meteorjs-application-on-your-own</link>
             <guid isPermaLink="false">b68f77df-779d-4388-8bc9-6bf8237111c0</guid>
             <pubDate>Mon, 11 Jan 2016 08:47:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Meteor Js Platform Should Scare Any Technology Company!]]></title>
-            <description><![CDATA[<article><h1>Why Meteor Js Platform Should Scare Any Technology Company!</h1><p>How much money do you think has been spent building Tinder? How much time do you think it has taken Tinder to built their app? How many lines of code do you think were in version 1, let alone in the version that's live today?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d28007ab44bb3826ddf0a18f2faa03c873f7ec2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Why Meteor Js Platform Should Scare Any Technology Company!</h1><p>How much money do you think has been spent building Tinder? How much time do you think it has taken Tinder to built their app? How many lines of code do you think were in version 1, let alone in the version that's live today?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/521d1e973e2b271a99e409b1c5ac604318af5b8b.jpg"></article>]]></description>
             <link>http://meteornerds.com/why-meteor-js-platform-should-scare-any-technology-company/</link>
             <guid isPermaLink="false">b5cfba8d-4197-41cc-81d5-3bf513d0bb12</guid>
             <pubDate>Mon, 11 Jan 2016 08:47:11 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.gajotres.net/top-five-meteor-js-video-tutorials/</link>
             <guid isPermaLink="false">b13adb37-e938-4ea2-a9f4-128946bbd842</guid>
             <pubDate>Sat, 09 Jan 2016 07:18:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Best Learning Resources for Meteor.js]]></title>
-            <description><![CDATA[<article><h1>Best Learning Resources for Meteor.js</h1><p>Meteor.js is an open-source platform built on node.js for rapidly creating reactive web and mobile apps. It is designed to allow programmers to create applications in a modern fashion, using up-to-date paradigms, most importantly reactive programming. Meteor became v1.0 on October 28th, 2014. Together with Manuel I am the author of the Manning book Meteor in Action.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7f6ca8c1328a352259e3d5a7df2644ea4bea032.jpg"></article>]]></description>
-            <link>https://www.yauh.de/best-learning-resources-for-meteorjs/</link>
-            <guid isPermaLink="false">8e44e6e9-b92f-4191-bc0f-204f1e664bae</guid>
-            <pubDate>Sat, 09 Jan 2016 07:04:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
