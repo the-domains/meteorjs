@@ -4,8 +4,15 @@
         <description><![CDATA[Meteor - The New Way To Build Apps!]]></description>
         <link>https://thegrid.ai/meteorjs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 08:05:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 08:12:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meteorjs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mantra]]></title>
+            <description><![CDATA[<article><h1>Mantra</h1><p>Introduction This is a Draft Specification for Mantra, an application architecture for Meteor created by Kadira. It helps developers to build highly maintanable, future proof Meteor apps. Copyright notice The MIT License (MIT) Copyright (c) 2016 Kadira Inc.</p></article>]]></description>
+            <link>https://kadirahq.github.io/mantra/</link>
+            <guid isPermaLink="false">1ec45f78-1706-4b68-9202-3ea4197a71d1</guid>
+            <pubDate>Tue, 12 Jan 2016 08:12:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Turn-key Electron apps with Meteor | Mixmax Engineering Blog]]></title>
             <description><![CDATA[<article><h1>Turn-key Electron apps with Meteor | Mixmax Engineering Blog</h1><p>Mixmax is a communications platform that brings email into the 21st century. We believe everything you do today on the web should be possible in any email. Last month, we released our first desktop application to rave reviews. After several improvements and the release of the Windows version, we're pulling back the curtain to reveal how we built the app.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa25db0ee49adf5148f6eccb50a88fac528b125e.gif"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.discovermeteor.com/</link>
             <guid isPermaLink="false">7b0a61da-072d-4c48-a774-1fb2779c103d</guid>
             <pubDate>Sat, 09 Jan 2016 07:28:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meteor.js - A New Paradigm for Connected Client Apps]]></title>
-            <description><![CDATA[<article><h1>Meteor.js - A New Paradigm for Connected Client Apps</h1><p>Sometimes, the incremental and never-ending changes of web tools and platforms build up over time and collide with user expectations. Multiplied by market forces they produce a radical shift in the technology approach to solving user problems. The last time this happened with the web was the late 90's transition from static websites to database driven ones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac1c067b43e185496728d1945cb833ca95fa1572.jpg"></article>]]></description>
-            <link>http://www.ziptask.com/Meteorjs-A-New-Paradigm-for-Connected-Client-Apps</link>
-            <guid isPermaLink="false">7e97437f-3c9c-4014-999a-91ededd2eb0e</guid>
-            <pubDate>Sat, 09 Jan 2016 07:28:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
