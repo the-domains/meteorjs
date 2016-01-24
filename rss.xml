@@ -4,8 +4,15 @@
         <description><![CDATA[Meteor - The New Way To Build Apps!]]></description>
         <link>https://thegrid.ai/meteorjs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 08:50:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2016 08:51:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meteorjs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Intro to Packages: A Meteor Freelancer's Best Friend - Curtis Larson]]></title>
+            <description><![CDATA[<article><h1>Intro to Packages: A Meteor Freelancer's Best Friend - Curtis Larson</h1><p>Meteor Freelancer Curtis Larson does an intro to Meteor Packages.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=QLqOZLamA6A&amp;utm_campaign=Core+Community&amp;utm_content=29077507&amp;utm_medium=social&amp;utm_source=facebook</link>
+            <guid isPermaLink="false">11759add-5c91-43b0-add8-bf3460696919</guid>
+            <pubDate>Sun, 24 Jan 2016 08:50:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Javascript Fatigue]]></title>
             <description><![CDATA[<article><h1>Javascript Fatigue</h1><p>For starters, consider that Pete Hunt asked why React is overwhelming for beginners: If you use React, you probably share the same experiences with Vjeux: There is a major problem in the React community that cripples beginners and hinders experts alike. Too Many Tools.</p><img src="https://cdn-images-1.medium.com/max/800/1*H4Y_NLqni0G4L5oL-hPmqw.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://meteornerds.com/why-meteor-js-platform-should-scare-any-technology-company/</link>
             <guid isPermaLink="false">b5cfba8d-4197-41cc-81d5-3bf513d0bb12</guid>
             <pubDate>Mon, 11 Jan 2016 08:47:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Deploy a Meteor.js Application on Ubuntu 14.04 with Nginx | DigitalOcean]]></title>
-            <description><![CDATA[<article><h1>How To Deploy a Meteor.js Application on Ubuntu 14.04 with Nginx | DigitalOcean</h1><p>Deploy a Meteor.js application on Ubuntu 14.04 with Nginx and MongoDB. This tutorial shows you how to build and deploy a production-ready version of your JavaScript application using the Meteor framework.</p><img src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/MeteorJS-twitter.png?1426699729"></article>]]></description>
-            <link>https://www.digitalocean.com/community/tutorials/how-to-deploy-a-meteor-js-application-on-ubuntu-14-04-with-nginx</link>
-            <guid isPermaLink="false">42536207-8abd-420f-9687-84f2d44fc771</guid>
-            <pubDate>Sat, 09 Jan 2016 11:33:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
