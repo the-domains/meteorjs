@@ -7,6 +7,13 @@
         <lastBuildDate>Sun, 24 Jan 2016 08:50:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meteorjs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Javascript Fatigue]]></title>
+            <description><![CDATA[<article><h1>Javascript Fatigue</h1><p>For starters, consider that Pete Hunt asked why React is overwhelming for beginners: If you use React, you probably share the same experiences with Vjeux: There is a major problem in the React community that cripples beginners and hinders experts alike. Too Many Tools.</p><img src="https://cdn-images-1.medium.com/max/800/1*H4Y_NLqni0G4L5oL-hPmqw.png"></article>]]></description>
+            <link>https://thegrid.ai/meteorjs/javascript-fatigue/index.html</link>
+            <guid isPermaLink="false">cd7a96fb-ea9b-41ce-a3a1-9904099cbfc5</guid>
+            <pubDate>Sun, 24 Jan 2016 08:49:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The State Of Meteor Part 1: What Went Wrong - Discover Meteor]]></title>
             <description><![CDATA[<article><h1>The State Of Meteor Part 1: What Went Wrong - Discover Meteor</h1><p>It's no secret that Meteor is in a state of flux right now. Blaze is being threatened by React. Meteor's homegrown package system might be replaced by NPM. And there's even rumors that Tracker and Minimongo might eventually disappears as well. So it's fair to ask: what does Meteor's future look like?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1d7faa68048b56a698c922dd348f652ef0d1ba8.jpg"></article>]]></description>
             <link>https://www.discovermeteor.com/blog/the-state-of-meteor-part-1-what-went-wrong/</link>
@@ -68,13 +75,6 @@
             <link>https://www.digitalocean.com/community/tutorials/how-to-deploy-a-meteor-js-application-on-ubuntu-14-04-with-nginx</link>
             <guid isPermaLink="false">42536207-8abd-420f-9687-84f2d44fc771</guid>
             <pubDate>Sat, 09 Jan 2016 11:33:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Discover Meteor - Learn how to build real-time JavaScript web apps with the Meteor.js framework]]></title>
-            <description><![CDATA[<article><h1>Discover Meteor - Learn how to build real-time JavaScript web apps with the Meteor.js framework</h1><p>Learn Meteor and build faster & simpler web apps, as we teach you how to build a real-time Meteor app from scratch. Read more reviews... Meteor is at the forefront of a new wave of frameworks that make building web apps easier, simpler, and faster.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ac0fc5fc7485391b2b9a4fdfd3ea7d648007364.png"></article>]]></description>
-            <link>https://www.discovermeteor.com/</link>
-            <guid isPermaLink="false">7b0a61da-072d-4c48-a774-1fb2779c103d</guid>
-            <pubDate>Sat, 09 Jan 2016 07:28:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
