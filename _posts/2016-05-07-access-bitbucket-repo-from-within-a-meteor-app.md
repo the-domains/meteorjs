@@ -4,23 +4,25 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Access BitBucket repo from within a Meteor app
-datePublished: '2016-05-07T04:09:50.929Z'
-dateModified: '2016-05-07T04:08:42.308Z'
+description: ' '
+datePublished: '2016-05-07T04:13:40.368Z'
+dateModified: '2016-05-07T04:13:38.047Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-07-access-bitbucket-repo-from-within-a-meteor-app.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-07-access-bitbucket-repo-from-within-a-meteor-app.md
+starred: true
 url: access-bitbucket-repo-from-within-a-meteor-app/index.html
 _type: Article
 
 ---
+****
+
 **Access BitBucket repo from within a Meteor app**
 
 I'm thinking of creating an app that creates apps, using Meteor.
@@ -54,4 +56,4 @@ No mucking about with oAuth etc - just using my standard login credentials.
 
 So, baby steps, but so far advanced as to where I was 2 weeks ago!
 
-I just love this Meteor platform - \#meteorjs
+I just love this Meteor platform - \#meteorjs ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2afa66c8-d308-49bb-8f94-641a8e71d3cd.png)
